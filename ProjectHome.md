@@ -1,0 +1,1 @@
+This app will be an open source android app.  It is unique because it will locate the car not just by position but also what floor its on and other landmarks that help you track in non-gps situations.
